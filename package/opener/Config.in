@@ -1,0 +1,11 @@
+config BR2_PACKAGE_OPENER
+        bool "opener"
+	depends on BR2_PACKAGE_LIBCAP
+        help
+          OpENer is an EtherNet/IP stack for I/O adapter devices;
+          supports multiple I/O and explicit connections;
+          includes objects and services to make EtherNet/IP
+          compliant products defined in THE ETHERNET/IP
+          SPECIFICATION and published by ODVA
+
+          https://github.com/EIPStackGroup/OpENer

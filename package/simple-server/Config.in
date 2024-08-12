@@ -1,0 +1,5 @@
+config BR2_PACKAGE_SIMPLE_SERVER
+        bool "simple-server"
+	#depends on BR2_PACKAGE_LIBCAP
+        help
+          Simple UDP server
