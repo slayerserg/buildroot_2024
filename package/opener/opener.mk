@@ -4,8 +4,8 @@
 #
 ################################################################################
 
-OPENER_VERSION = v2.4.18
-OPENER_SOURCE = v2.4.18.tar.gz
+OPENER_VERSION = v2.4.19
+OPENER_SOURCE = v2.4.19.tar.gz
 OPENER_SITE = https://github.com/slayerserg/opener/archive/refs/tags
 OPENER_INSTALL_STAGING = NO
 OPENER_INSTALL_TARGET = YES
